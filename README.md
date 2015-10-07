@@ -1,0 +1,2 @@
+# testtheme
+testrepo wp uploads
